@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Ehsan Ilahi</h1>
 <h3 align="center">Senior. Software Engineer PHP | Laravel | Node | React | MySQL</h3>
 <img width="400" align="right" alt="Ehsan Ilahi | Senior. Software Engineer PHP | Laravel | Node | React | MySQL" src="https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/developer.gif" />
