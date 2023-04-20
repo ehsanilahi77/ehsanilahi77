@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP | Laravel | Node | React | MySQL**
 
-- 📫 How to reach me **ehsanilahi77@gmai.com**
+- 📫 How to reach me **ehsanilahi77@gmail.com**
 
 - 📄 Know about my experiences [https://jobee.pk/profile/ehsanilahi](https://jobee.pk/profile/ehsanilahi)
 
