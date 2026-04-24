@@ -1,7 +1,15 @@
-![logo](https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/banner.jpg)
+<img width="2048" height="410" alt="Gemini_Generated_Image_ssqkqpssqkqpssqk (1)" src="https://github.com/user-attachments/assets/f0572296-b9bd-4542-91b5-837d43dfe587" />
 
-<h1 align="center">Hi 👋, I'm Ehsan Ilahi</h1>
-<h3 align="center">🚀 Lead Software Engineer | Scalable Systems | AI Integrations</h3>
+---
+
+<h1 align="center">Ehsan Ilahi</h1>
+<h3 align="center">Lead Software Engineer | Scalable Systems | AI Integrations</h3>
+<p align="center">
+  <a href="mailto:ehsanilahi77@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ehsanilahi"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://dev.to/ehsanilahi77"><img src="https://img.shields.io/badge/Dev.to-Blog-black?style=flat&logo=devdotto"></a>
+  <img src="https://komarev.com/ghpvc/?username=ehsanilahi77&label=Profile%20views&color=0e75b6&style=flat&base=1564" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=10%2B+Years+Experience;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
@@ -23,17 +31,18 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,vue,ts,js,go,mysql,postgres,mongodb,redis,docker,aws,firebase,git" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,vue,ts,js,go,mysql,postgres,mongodb,redis,docker,aws" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-* 🚀 Reduced backend development time by **80%**
-* ⚡ Improved system performance by **20%**
-* 👥 Delivered APIs serving **100K+ users**
-* 🧠 Built AI-powered chatbot with **OpenAI embeddings**
+<p align="center">
+  <img src="https://img.shields.io/badge/Development_Time-80%25_Reduction-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Scale-100K%2B_Users-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance-20%25_Improvement-orange?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -50,13 +59,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanilahi77&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 🔥 Featured Projects
 
@@ -108,3 +110,13 @@
 ## ⚡ Fun Fact
 
 💻 I don’t just write code — I build systems that scale, optimize, and evolve 🚀
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanilahi77&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
