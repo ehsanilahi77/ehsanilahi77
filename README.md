@@ -1,27 +1,110 @@
 ![logo](https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Ehsan Ilahi</h1>
-<h3 align="center">Senior. Software Engineer PHP | Laravel | Node | React | MySQL</h3>
-<img width="400" align="right" alt="Ehsan Ilahi | Senior. Software Engineer PHP | Laravel | Node | React | MySQL" src="https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/developer.gif" />
+<h3 align="center">🚀 Lead Software Engineer | Scalable Systems | AI Integrations</h3>
 
-- 🔭 I’m currently working on [STORED](https://www.bystored.com/)
-
-- 🌱 I’m currently learning **Express, Next, Typescript**
-
-- 💬 Ask me about **PHP | Laravel | Node | React | MySQL**
-
-- 📫 How to reach me **ehsanilahi77@gmail.com**
-
-- 📄 Know about my experiences [https://jobee.pk/profile/ehsanilahi](https://jobee.pk/profile/ehsanilahi)
-
-- ⚡ Fun fact **For me, Web development is a playground and I love to play here.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ehsanilahi77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ehsanilahi77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehsanilahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsanilahi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7364416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7364416" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ehsanilahi77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ehsanilahi77" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=10%2B+Years+Experience;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/developer.gif"/>
+
+
+## 🧠 About Me
+
+✔️ Lead Software Engineer with **10+ years of experience** <br/>
+✔️ Expert in **PHP, Laravel, MYSQL, Vue.js, React, Next.js & scalable architectures**<br/>
+✔️ Strong experience in **AI systems (OpenAI, embeddings, LLMs)**<br/>
+✔️ Passionate about **performance, automation & clean architecture**<br/>
+
+💡 Built a CLI-based API generator → **reduced dev time by 80% (3 hrs → 15 mins)**<br/>
+
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,react,nextjs,vue,ts,js,go,mysql,postgres,mongodb,redis,docker,aws,firebase,git" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* 🚀 Reduced backend development time by **80%**
+* ⚡ Improved system performance by **20%**
+* 👥 Delivered APIs serving **100K+ users**
+* 🧠 Built AI-powered chatbot with **OpenAI embeddings**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanilahi77&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanilahi77&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanilahi77&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanilahi77&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🟢 YOUSTOCK
+
+✔ Booking system + dashboard revamp
+✔ Stripe integration + A/B testing
+
+### 🔵 LINETIPS
+
+✔ Scalable Laravel APIs
+✔ Apple/Google Pay + Firebase notifications
+
+### 🟣 OCTOTHINK
+
+✔ Subscription-based APIs
+✔ Ranking & reward systems
+✔ Optimized for **millions of records**
+
+### 🔴 KPJ Healthcare
+
+✔ Hospital Management System
+✔ Appointment + Patient Records
+
+---
+
+## 🎯 Current Focus
+
+* 🧠 AI-powered applications (LLMs, automation)
+* ⚙️ System Design & Architecture
+* 📈 Scaling backend systems
+* 🔐 Secure API development
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://dev.to/ehsanilahi77"><img src="https://skillicons.dev/icons?i=devto" /></a>
+<a href="https://linkedin.com/in/ehsanilahi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://stackoverflow.com/users/7364416"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+<a href="https://www.hackerrank.com/@ehsanilahi77"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+</p>
+
+📧 **[ehsanilahi77@gmail.com](mailto:ehsanilahi77@gmail.com)**
+
+---
+
+## ⚡ Fun Fact
+
+💻 I don’t just write code — I build systems that scale, optimize, and evolve 🚀
