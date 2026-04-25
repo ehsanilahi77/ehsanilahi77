@@ -57,6 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanilahi77&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img width="880" height="192" alt="snake" src="https://github.com/user-attachments/assets/ebc7ec02-0575-4ad9-8392-2f4ddff48f70" />
+</p>
+
 ---
 
 
