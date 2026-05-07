@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Ehsan Ilahi</h1>
-<h3 align="center">Lead Software Engineer | Scalable Systems | AI Integrations</h3>
+<h3 align="center">Senior Software Engineer Team Lead | Scalable Systems | AI Integrations</h3>
 <p align="center">
   <a href="mailto:ehsanilahi77@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail"></a>
   <a href="https://linkedin.com/in/ehsanilahi"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=8%2BYears+Experience;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=8%2BYears+Experience+Web-application;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
 </p>
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/developer.gif"/>
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-✔️ Software Engineer Team Lead with **8 years of experience** <br/>
+✔️ Senior Software Engineer Team Lead with **8 years of experience** <br/>
 ✔️ Expert in **PHP, Laravel, MYSQL, Vue.js, React, Next.js & scalable architectures**<br/>
 ✔️ Strong experience in **AI systems (OpenAI, embeddings, LLMs)**<br/>
 ✔️ Passionate about **performance, automation & clean architecture**<br/>
