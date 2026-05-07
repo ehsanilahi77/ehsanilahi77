@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-✔️ Lead Software Engineer with **8 years of experience** <br/>
+✔️ Software Engineer Team Lead with **8 years of experience** <br/>
 ✔️ Expert in **PHP, Laravel, MYSQL, Vue.js, React, Next.js & scalable architectures**<br/>
 ✔️ Strong experience in **AI systems (OpenAI, embeddings, LLMs)**<br/>
 ✔️ Passionate about **performance, automation & clean architecture**<br/>
