@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=10%2B+Years+Experience;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=8%2BYears+Experience;PHP+%7C+Laravel+%7C+MYSQL+%7C+VueJS+%7C+NextJS+%7C+React+Expert;AI+%26+OpenAI+Integrations;Building+Scalable+Systems;100K%2B+Users+Served" />
 </p>
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/ehsanilahi77/ehsanilahi77/main/developer.gif"/>
